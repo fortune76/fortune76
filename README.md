@@ -36,4 +36,4 @@ Sometimes I decide ploblems here:
 
 Some stats:
 
-![stats badge](https://komarev.com/ghpvc/?username=fortune76&style=for-the-badge&color=red)
+![stats badge](https://komarev.com/ghpvc/?username=fortune76&color=red&style=for-the-badge)
