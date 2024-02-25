@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>
+</div>
+
 ## Hello world! I`m Max. :v: 
 
 I'm junior software developer, currently based in Kazakhstan 🇰🇿.
@@ -8,11 +12,12 @@ I'm junior software developer, currently based in Kazakhstan 🇰🇿.
 [![telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smdoff)
 
 #### ⭐ My skills: 
-+ 🐍 Python as primary programming language
-+ 🍀 Django, aiohttp
-+ 🐧 Linux (Fedora 36) as home OS, and a bit of server state
-+ 🧮 PostgreSQL, MySQL, Django ORM, SQLAlchemy
-+ 🐳 Docker
++ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; Python as primary programming language
++ <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; C/C++ as my new favourite language
++ <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp; Django
++ <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp; Linux (Kubuntu) as home OS, and a bit of server state
++ <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp; PostgreSQL, MySQL, Django ORM, SQLAlchemy
++ <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; Docker
   
 #### 💼 My experience: 
 + 09/2021 Started to learn. (HTML, CSS, a bit of JS)
