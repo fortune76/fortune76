@@ -4,7 +4,7 @@
 
 ## Hello world! I`m Max. :v: 
 
-I'm junior software developer, currently based in Kazakhstan 🇰🇿.
+I'm junior software developer, currently based in Yaroslavl, Russia.
 
 #### 📞 Contacts: 
 [![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pumpbro@gmail.com)
