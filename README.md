@@ -13,9 +13,7 @@ I'm junior software developer, currently based in Kazakhstan 🇰🇿.
 + 🐧 Linux (Fedora 36) as home OS, and a bit of server state
 + 🧮 PostgreSQL, MySQL, Django ORM, SQLAlchemy
 + 🐳 Docker
-+ 🖼️ HTML, CSS, a bit of JS, SCSS
-+ 📱 Jira, Discord, Agile
-
+  
 #### 💼 My experience: 
 + 09/2021 Started to learn. (HTML, CSS, a bit of JS)
 + 12/2021 Started to learn backend development. (Python, Django, MySQL, Linux)
@@ -23,14 +21,9 @@ I'm junior software developer, currently based in Kazakhstan 🇰🇿.
 + 06/2022 Started to work at Ideco. (Python, aiohttp, PostgreSQL, SQLAlchemy, Docker, etcd, fedora).
 + 11/2022 Continued to study (Django DRF, Docker, PostgreSQL) 
 + 12/2022 Finished to work at Ideco.
++ 01/2024 Started to learn at School21.
 
-
-I'm currently worked to my self project:
-
-[![things badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-)](https://github.com/fortune76/things)
-
-Sometimes I decide ploblems here:
+Sometimes I solve ploblems here:
 
 [![leetcode badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/fortune76/)
 
